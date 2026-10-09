@@ -1,0 +1,7 @@
+node_modules/
+.env
+mathai.sqlite
+mathai.sqlite-shm
+mathai.sqlite-wal
+.DS_Store
+npm-debug.log*
